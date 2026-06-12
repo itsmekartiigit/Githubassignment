@@ -2,11 +2,13 @@
     {
         "id": 1,
         "name": "Kartik",
-        "course": "BCA"
+        "course": "Tutedude",
+        "status": "Updated from new branch"
     },
     {
         "id": 2,
         "name": "Rahul",
-        "course": "MCA"
+             "course": "Tutedude",
+        "status": "Updated from new branch"
     }
 ]
